@@ -34,6 +34,7 @@
             <!-- Page Content -->
             <main>
                 {{ $slot }}
+                <livewire: livewire-ui-spotlight />
             </main>
 
         </div>
